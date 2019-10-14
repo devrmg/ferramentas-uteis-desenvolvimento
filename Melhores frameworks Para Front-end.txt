@@ -1,0 +1,20 @@
+Bootstrap [link]
+Criado pela Twitter Inc., Bootstrap é, sem dúvida, o líder de todos os frameworks para frontend disponíveis no mercado.
+
+Criado pensando nos desenvolvedores de todos os níveis, dispositivos de todas as formas e projetos de todos os tamanhos. Possui uma das estruturas de UI mais antigas, sendo inicialmente lançado em agosto de 2011.
+
+O Bootstrap é mais conhecido por sua capacidade de criar sites responsivos tendo como mote "Mobile first framework". Atualmente na versão 4, que acabou de ser lançada, e possui inúmeras novidades tanto nas funcionalidades CSS quanto JS.
+
+Foundation [link]
+O Foundation foi pensado para facilitar a criação de sites, aplicativos e e-mails. Ele oferece uma UI minimalista e mais controle sobre o grid quando comparado com outros frameworks, além dos componentes de página também mais customizáveis. O Foundation é recomendado para profissionais que já possuem uma certa familiaridade com frontend, porém ele oferece larga documentação e muitos exemplos de páginas para servir como kickstart de novos projetos.
+
+Pure CSS [link]
+Pure CSS tem como diferencial o tamanho (total 3.8KB quando minified e gzip), isso sem deixar nada de fora. Construído com Normalize.css, o Pure CSS fornece layout e estilo para elementos HTML nativos e componentes de UI mais comuns, sendo cada linha cuidadosamente considerada para priorizar o peso do framework.
+
+Uma excelente opção para desenvolver aplicações simples, que requerem pouco visualmente e mas muito em termos de desempenho.
+
+Semantic UI [link]
+Semantic UI é um framework de desenvolvimento que prioriza a usabilidade. HTML conciso, JavaScript intuitivo e depuração simplificada. Semantic UI é equipado com um sistema de herança intuitiva e variáveis de estilo globais que permitem que você tenha liberdade de design.
+
+Materialize [link]
+Materialize é um framework moderno baseado no Material Design by Google. Uma estrutura focada em tornar o uso do Design Material mais fácil, pode-se dizer que a missão foi cumprida. O framework é gratuito, mas a equipe responsável pelo projeto também oferece temas mais completos que podem ser comprados por um valor bem razoável.

@@ -1,0 +1,39 @@
+1 – Class autocomplete for HTML (AES Soft)
+
+A extensão varre automaticamente o arquivo HTML ativo para links externos de folhas de estilo CSS. Quando uma folha de estilos é encontrada, os nomes das classes são extraídos e disponibilizados para uso com o recurso autocomplete do código do Visual Studio Code.
+
+2 – Color Picker (Anseki)
+
+Exibe a cor do hexadecimal do CSS.
+
+3- Guides (Spywhere)
+
+Exibe linhas guias de edentação do código.
+
+4 – Image preview (Kiss Tamás)
+
+Mostra ao lado dos números de linhas do código um Preview da imagem que esta naquela linha, plugin muito útil para identificar no código onde estão as imagens.
+
+5 – Indenticator (SirTori)
+
+Destaca a edentação ativa.
+
+6 – Mithril Emmet (FallenMax)
+
+O famoso Emmet, este plugin para quem não conhece auxilia na velocidade de escrita do código já que utiliza diversos atalhos para criação rápida de tags.
+
+7 – Path Autocomplete (Mihai Vilcu)
+
+Este plugin é muito útil para encontrar imagens em pastas diretamente no código, mostrando para você os arquivos do diretório diretamente na linha de código.
+
+8 – Icon Fonts (Idleberg)
+
+Snippets ou autocomplete de trechos de código para os mais conhecidos icons fonts do mercado.
+
+9 – Boostrap 3 Snippets (William Whitehead)
+
+Snippets ou autocomplete de trechos de código para o Bootstrap.
+
+10 – JQuery Code Snippets (Don Jayamanne)
+
+Snippets ou autocomplete de trechos de código para Jquery.

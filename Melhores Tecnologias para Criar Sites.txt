@@ -1,0 +1,70 @@
+1 – WordPress
+
+A mais popular plataforma de gerenciamento de conteúdo do mundo é utilizada em 30% das páginas ativas na internet. O WordPress facilita a criação e gerenciamentos dos conteúdos dentro de um site, sendo muito popular entre blogs, e-commerces e portais de notícias.
+
+Criado para democratizar o desenvolvimento de sites, o CMS dispensa o conhecimento em códigos e linguagens. Então você pode utilizá-lo facilmente e isso não quer dizer que não seja possível construir sites incríveis na plataforma.
+
+Se você conhecer as tecnologias de edição de um site WordPress (como HTML, CSS, JavaScript e PHP) também é possível personalizar layouts e funções para ter páginas ainda mais completas, como é o caso de sites gigantes como o da Forbes.
+
+2 – Criador de Sites
+
+Lançado em 2017 pela HostGator, o Criador de Sites é uma ferramenta que facilita e simplifica muito o processo de desenvolver um site do zero. Com ele, mesmo quem não tem conhecimento de programação ou experiência na gestão de CMS pode criar sites, blogs e lojas virtuais sem grandes dificuldades.
+
+De forma intuitiva, a ferramenta oferece diversas opções de templates responsivos, o que já te livra da preocupação com a navegação por dispositivos móveis. Além disso, o Criador de Sites oferece banco de imagens e integração com ferramentas de SEO!
+
+Criando sites estáticos
+Muitos profissionais e empresas precisam de sites com um bom layout e que apresente de forma rápida as suas informações, como dados de contato, serviços prestados e portfólio, por exemplo. Para isso, os sites estáticos podem ser muito úteis!
+
+Com a vantagem de ter uma boa velocidade de carregamento e menor custo de investimento, esse tipo de site não utiliza sistemas de gerenciamento do conteúdo e banco de dados.
+
+Sendo assim, para desenvolver um site estático é necessário conhecimento em basicamente 3 tecnologias que permitem trabalhar no seu site profissional:
+
+3 – HTML
+
+Sendo uma linguagem de marcação, o HTML é um conjunto de regras e códigos que vão definir como os elementos do seu site serão exibidos na tela.
+Para facilitar o trabalho, existem alguns free templates disponíveis no HTML5, oferecendo flexibilidade e liberdade para criar um site moderno.
+
+Porém, é fundamental que o profissional responsável entenda como isso acontece para realizar melhorias e correções quando necessário. Um curso de HMTL5 nesse caso pode ser muito útil.
+
+4 – CSS
+
+Muito usado em conjunto com o HTML, o CSS é uma linguagem de estilos responsável pela apresentação de design e estilo do seu site.
+
+Assim, enquanto o HTML serve para estruturar conteúdos, o CSS ajuda a formatá-los.
+
+5 – JavaScript
+
+O JavaScript é utilizado em muitas das páginas web no mundo, sendo responsável pelos scripts que garantem certos comportamentos e funções nos sites – como por exemplo, ao passar o mouse sobre um item de menu e abrirem as opções. É a linguagem que dará dinâmica à sua página web, podendo criar interações e efeitos visuais, ordenar tabelas, autocompletar termos e muito mais.
+
+O JavaScript não é usado apenas em páginas, como possui também um papel importante na criação de plataformas web com grandes quantidades de informações atualizadas em tempo real, como redes sociais e portais de notícias.
+
+Resumindo: ao começar a criar sites, o HTML estrutura a página, o CSS a deixa mais bonita e atrativa e o JavaScript faz tudo funcionar!
+
+Usando outra linguagens e back-end para desenvolver sites incríveis
+Agora que já conhecemos as tecnologias base para criar páginas na web, o próximo passo seria adicionar outras linguagens de programação, bibliotecas de código e bancos de dados para desenvolver sites ainda mais incríveis, dinâmicos e completos!
+
+São diversas as opções no mercado, variando para o que você deseja ter em um site e do conhecimento do desenvolvedor envolvido no projeto. Separamos algumas das principais, confira:
+
+6 – Java
+
+O Java é uma linguagem de programação orientada a objetos muito popular no desenvolvimento web, já que é gratuita e ajuda a manter um sistema modular, flexível e extensível.
+
+A linguagem está em toda parte, pois além de páginas web, também é usada para criar aplicações para smartphones, veículos, pequenos robôs e até mesmo em máquinas. Outro fator que impulsiona o uso do Java por desenvolvedores web é a sua relativa facilidade de aprendizado.
+
+7 – PHP
+
+Mais usada no back-end de sites, o PHP (Hypertext Preprocessor) fica responsável pela comunicação com o servidor. Com ele, é possível realizar a interação com o banco de dados e outras aplicações, implementando funções dinâmicas e complexas em websites.
+
+É uma linguagem simples para iniciantes, de código aberto, e que permite criar variados elementos que vão desde imagens e arquivos em PDF, até sistemas de pagamento para e-commerces. O PHP é a linguagem base de grandes sites como o Facebook, Wikipédia e o próprio WordPress citado acima.
+
+8 – Python
+
+Criado para ser uma linguagem para escrever programas intermediários, o Python passou por diversas mudanças já que é uma plataforma livre e de código aberto. Hoje é uma linguagem multiplataforma que permite desenvolver aplicações mobile, desktop e web. Além disso, ainda é capaz de integrar diversos serviços e sistemas de forma rápida e eficaz. Também é usada como base de sites de grandes empresas como Netflix, Youtube e Google.
+
+9 – MySQL
+
+O MySQL é um dos bancos de dados relacionais mais utilizados no mercado, principalmente em sites criados em PHP. Também é uma tecnologia open source, permitindo o desenvolvimento personalizado para as necessidades da empresa e do site. Além disso, o MySQL é fácil de usar e compatível com diversos sistemas operacionais, garantindo seu lugar como o sistema de gerenciamento de banco de dados mais popular do mundo.
+
+E aí, com essa lista de linguagens e tecnologias web já dá para ter uma boa base de como desenvolver sites incríveis?
+
+É claro que quanto mais conhecimento e prática no uso dessas ferramentas e códigos, sites mais complexos e atrativos você será capaz de criar. Agora é só aprender o que for mais interessante e necessário para você em desenvolvimento e colocar a mão na massa. Boa sorte!

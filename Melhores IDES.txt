@@ -1,0 +1,75 @@
+10 – Kdevelop
+Nossa primeira IDE é o Kdevelop. Confesso que nunca utilizei essa ferramenta (por isso está no top 10), mas mesmo assim, fiz questão de traze-la aqui em nosso artigo.
+
+Pelas informações que eu busquei, essa IDE é livre, não inclui um compilador interno e está atualmente na versão 4.7.2 e 5.0.0 beta.
+
+Suporta linguagens poderosas como o Java, PHP, Python, Ruby e diversas outras. Meus amigos programadores me falaram que é uma excelente ferramenta para se trabalhar, porém como não utilizei “ainda”, não posso dar maiores orientações acerca da mesma.
+
+No entanto, fica ai a dica para você baixar a mesma e experimentar essa brincadeira.
+
+
+09 – Brackets
+O novo xodó dos web designers, o Brackets foi construído com JavaScript, HTML e CSS pela Adobe. Esse editor possui como principal característica a facilidade e praticidade em montagem de layouts para a web.
+
+
+08 – Squad
+Essa plataforma é muito útil para trabalhos em equipe. Por ser uma plataforma web, sua dinâmica ajuda bastante o desenrolar de problemas quando não temos nenhum ambiente de programação instalado em nossa máquina.
+
+Sua utilização é gratuita para 01 usuário e 03 colaboradores.
+
+
+07 – Aptana 
+Já utilizei bastante essa plataforma. Muito poderosa e cheia de recursos que facilitam bastante a vida de qualquer programador.
+
+Foi desenvolvida em Java e possui suporte para as linguagens HTML, CSS, JavaScript, ScriptDoc, PHP, Ruby, Adobe AIR.
+
+Por se baseada no Eclipse, ela pode vim juntamente com o mesmo ou de forma integral. Lembrando que é uma IDE multiplataforma, ou seja, funciona tando no Windows como no Linux e é de software aberto.
+
+
+06 – Visual Studio
+O Microsoft Visual Studio é um pacote de programas da Microsoft para desenvolvimento de software especialmente dedicado ao .net framework e às linguagens Visual Basic (VB), C, C++, C#.
+
+Essa plataforma é muito boa para desenvolver nas linguagens da Microsoft, porém, se você busca versatilidade e ao mesmo tempo flexibilidade em programar, eu não recomendo a sua utilização.
+
+
+
+05 – Eclipse
+Agora sim, nos próximos 05 tópicos iremos falar das minhas ferramentas favoritas e mais utilizadas por mim no meu dia a dia.
+
+A primeira delas é o Eclipse. Essa IDE é multiplataforma e muito poderosa quando o assunto é programação. Permite a criação de códigos em diversas linguagens e possui a capacidade de inserção de plugins para otimização do seu desempenho (função muito similar ao sublime text).
+
+Algumas linguagens suportadas pelo Eclipse são: C, C++, Python, Java, Perl, PHP e diversas outras.
+
+OBS: Se por acaso você estiver pensando em programar em C, C++ ou C#, utilize o Eclipse, garanto que não vai se arrepender.
+
+
+
+04 – NotePad++
+O Notepad++ é uma ferramenta bem simples, porém, poderosa quando associada a um trabalho de desenvolvimento web.
+
+Utilizo com bastante frequência e recomendo para todos aqueles que querem começar ou trabalhar na parte de WEB.
+
+
+
+03 – Netbeans
+Ultrapower resume essa ferramenta. O Netbeans é uma das plataformas de desenvolvimento mais aclamada quando o assunto é Codificação em Java.
+
+Totalmente grátis e de código aberto, essa plataforma pode ser utilizada para desenvolvimento em Java (principalmente), C, C++, PHP, Groovy, Ruby, entre outras.
+
+Com essa ferramenta em mãos, você poderá criar poderosas aplicações comerciais, seja para desktop, mobile ou web.
+
+
+02 – Dreamweaver
+Você deve está se perguntando: “O que o Wilker têm na cabeça para deixar o Dreamweaver na segunda posição?”. HaHa.
+
+Só lembrando, essa ordem não é por qualidades ou vantagens, e sim, pela frequência de utilização aqui no meu Home Office, ok?
+
+Portanto, como utilizo essa ferramenta com mais frequência em relação as outras apresentadas aqui, ela se encontra na devida posição.
+
+É uma ferramenta muito boa, apesar de possuir alguns bugs e custar relativamente caro (Os pirateiros piram, hahaha), recomendo mesmo assim, para os iniciantes em WEB.
+
+
+01 – Sublime Text
+Finalmente em nosso top 01, temos o Sublime Text. Uma ótima ferramenta que conheci a pouco tempo e já me apaixonei literalmente.
+
+Com essa IDE, você terá uma infinidade de recursos em suas mãos. Suporta as linguagens: C, C++, C#, HTML, CSS, Java, PHP, JavaScript, e muitas outras.

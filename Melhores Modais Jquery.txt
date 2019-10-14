@@ -1,0 +1,298 @@
+1. jQuery Modal
+jQuery Modal
+
+Este modal jQuery é muito clean e simples de usar. É acessível e funciona com atalhos de teclado (como o esc para fechar) e até suporta ações de toque. A biblioteca total pesa cerca de 1KB, o que é pequeno e importante para o carregamento do site.
+
+Sem mencionar que o design é limpo o suficiente para funcionar em qualquer site. Definitivamente, um dos nossos favoritos para um  UX super clean.
+
+
+2. leanModal
+leanModal
+
+O   plugin leanModal jQuery vem com um design “clean” muito parecido com o plugin jQuery Modal. Ambos são parecidos e oferecem uma experiência semelhante. Mas o leanModal se destaca porque suporta retornos de chamada de API para efeitos de animações personalizadas e mais conteúdos técnicos.
+
+Ambas as bibliotecas são leves e ambas são executadas no jQuery. Na nossa opinião, outra ótima solução.
+
+
+3. iziModal.js
+iziModal.js
+
+O iziModal.js é um pouco mais complexo do que os anteriores, mas tem um visual bem bacana.
+
+Este é definitivamente um plugin maior e vem com um apelo maior em termos de estética. Ele suporta dezenas de animações com efeitos deslizantes, efeitos de desvanecimento e até mesmo mods com abas para alternar entre os formulários de login/criação de conta.
+
+
+ 
+iziModal é outro modal favorito apenas devido ao seu design limpo e fantásticos efeitos UI / UX.
+
+No entanto, é um pouco mais técnico para configurar e vem com um tamanho de arquivo mais substancial. Mas se isso não for um problema para você, vai adorar a experiência.
+
+
+4. ARIA Modal
+ARIA Modal
+
+Poucas modais são projetados com acessibilidade em mente. No entanto, o plugin ARIA Modal jQuery é o melhor que encontramos.
+
+Ele recebe atualizações frequentes e deve funcionar em todos os dispositivos, todos os navegadores, para todas as entradas (clique e toque).
+
+
+ 
+O único problema é que os plugins focados na acessibilidade são tipicamente um pouco “menos bonitos”.
+
+Mas ele será perfeito se você estiver mais preocupado com a acessibilidade do que com a estética.
+
+
+5. Remodal
+Remodal
+
+O script Remodal tem na velocidade seu ponto forte. Ele é executado com animações CSS e funciona em um script jQuery super pequeno.
+
+No entanto, há um problema menor com a Remodal: não é mais atualizado pelo desenvolvedor.
+
+
+ 
+Você pode ler mais sobre o repositório do  GitHub,  mas este plugin permanecerá para sempre na v1.0, a menos que alguém melhore o código. Ainda assim, consideramos que é um plugin incrível que provavelmente não representa nenhum risco de segurança.
+
+
+6. FancyBox
+FancyBox
+
+Embora tecnicamente não seja um script “modal” completo, nós realmente queremos incluir o FancyBox  porque ele imita o comportamento modal.
+
+O plugin FancyBox é executado no jQuery e cria uma galeria de apresentação de slides modal a partir de uma lista de miniaturas. Ele não permite que você crie as caixas modais como você normalmente encontra, portanto, não é um plugin de janela modal direta.
+
+
+ 
+No entanto, ele se misturará bem em uma página com outro script modal, porque a lightbox de imagens se parece com um modal real.
+
+
+7. animatedModal.js
+animatedModal.js
+
+O animatedModal.js é único porque ocupa a tela inteira em vez de apenas um pequeno espaço na página.
+
+Gostamos deste modal estilizado porque ele tem um design elegante e uma enorme biblioteca de efeitos de animação (além de uma API para personalizá-los).
+
+
+ 
+Mas não há como evitar o considerável efeito de tela cheia, então isso só funcionará para desenvolvedores que gostam desse estilo e projetos que necessitem deste efeito.
+
+
+8. SimpleModal
+SimpleModal
+
+Com o script SimpleModal, você encontrará um bom equilíbrio de estética e usabilidade. Os modais parecem muito naturais, mas não dependem de animações malucas ou de longos Js.
+
+Na página principal do script, você encontrará exemplos de tudo, desde vídeos incorporados à imagens, conteúdo personalizado, confirmação/cancelamento, campos de login e muito mais.
+
+
+ 
+Definitivamente um script modal versátil e com muito espaço para personalização.
+
+
+9. Avgrund Modal
+Avgrund Modal
+
+Os scripts que realmente se destacam para nós são os que fazem algo diferente. O Avgrund Modal é um desses scripts.
+
+Depois de ativar esse modal, a animação move a página inteira para o segundo plano. Isso não é algo que funcione em todos os sites. Mas é super original e muito interessante de se ver.
+
+Ele roda no jQuery, suporta todos os navegadores modernos e oferece fallbacks naturais para navegadores mais antigos que remontam ao IE6 +.
+
+
+10. popModal
+popModal
+
+Dê uma olhada na página popModal para que você veja porque este modal é tão popular. Com o popModal você pode criar janelas personalizadas que suportam texto de rolagem longo, botões de confirmação/cancelamento e até mesmo mensagens simples de notificação.
+
+Todos os códigos CSS são super fáceis de editar, dando a você controle total sobre o design.
+
+
+ 
+Entretanto, sua animação não empolga muito, mas definitivamente isso não é um problema. Ainda, achamos que o popModal funciona melhor em sites que se misturam naturalmente com as animações.
+
+
+11. SweetAlert2
+SweetAlert2
+
+Aqui está um dos nossos scripts de alerta favoritos na web: SweetAlert2.
+
+É uma biblioteca Js vanilla com zero dependências e é totalmente acessível com base nos padrões WAI-ARIA. Se você verificar a página principal, você pode realmente comparar uma caixa de alerta tradicional com o modal SweetAlert.
+
+
+12. rmodal.js
+rmodal.js
+
+A maioria das bibliotecas que listamos depende do jQuery. Mas existem alguns scripts modais que você pode usar e que são totalmente livres de todas as dependências (o SweetAlert2 citado acima é um).
+
+O rmodal.js oferece um design natural que pode ser usado em qualquer site. Ele não depende de nenhuma biblioteca Js e é muito pequeno, totalizando 1.2KB.
+
+
+ 
+Ele também pode ser legal com o Bootstrap se você estiver pensando em combinar isso com um layout BS3/BS4.
+
+Mas dê uma olhada na amostra para ver como funciona a rmodal no navegador. Não vai agradar a todos, mas é uma boa escolha para um script livre.
+
+Preview do modal
+
+13. Vex
+Vex
+
+Facilmente estilizado, altamente configurável e pronto para uso móvel, Vex é incrível. Comece a usar o Vex em seus projetos como seu modal original, sem entrar em conflito com outras bibliotecas ou plugins que você tenha instalado. Dê ao seu site um visual moderno, minimalista e simples.
+
+Preview do modal
+
+14. jQuery Popdown
+jQuery Popdown
+
+A animação padrão e única do jQuery Popdown. O que falta em documentação e personalização, compensa em simplicidade. Ele tem um design bem bacana e pode ser adaptado em diversos tipos de sites.
+
+Preview do modal
+
+15. Zebra Dialog
+Zebra Dialog
+
+O script de modal Zebra é fantástico. Ele permite que você o personaliza da forma que precisar. Ele tem um design minimalista, clean e objetivo. É de fato muito agradável aos olhos.
+
+
+16. SweetAlert
+SweetAlert
+
+O SweetAlert pode não ser o mais leve da nossa lista (tem 17kb), mas é o mais popular. No entanto, não precisa de jQuery. Se o seu site é pequeno e a única razão pela qual você está considerando o jQuery é adicionar um modal, 17kb é muito menor do que toda a biblioteca jQuery, que pode ter centenas de kilobytes. Sweet Alert também tem um design agradável e se adapta a todos os estilos de sites.
+
+Preview do modal
+
+17. Flashy
+Flashy
+
+O Flashy é um novo plugin de jQuery de modal e de galeria criado para exibir seu conteúdo em um modal, mas o que o torna especial é que é possível abrir o modal com um slider de imagens. Ele é sensível ao toque e tem foco no desempenho além de diversos efeitos.
+
+Preview do modal
+
+18. simpleDialog
+simpleDialog
+
+O simpleDialog é um plugin jQuery para criar modais responsivos, alertas personalizáveis, popups de diálogo de confirmação com componentes modais do Bootstrap. É outro que tem um design agradável aos olhos. Gostamos dele.
+
+Preview do modal
+
+19. VideoPopup.js
+VideoPopup.js
+
+O plugin jQuery VideoPopup.js permite que seus visitantes abram e reproduzam um vídeo HTML5 em um modal personalizável. Os vídeos cada vez mais se tornam populares e utilizados para diversos fins e ter um modal que abre um vídeo é uma opção interessante para muitos projetos.
+
+Preview do modal
+
+20. Dialogify
+Dialogify
+
+Dialogify é um plugin jQuery para criar modais de diálogo/popup modernos. Ele é uma mistura de simplicidade e design e ainda oferece opções personalizáveis ​​e janelas modais usando o elemento dialog com a API HTMLDialogElement.
+
+Preview do modal
+
+21. Versatile Modal Popup Plugin 
+
+
+O lis.modal.js é um plugin de popup modal JQuery multifuncional e simples, mas robusto, que pode ser usado para popups de notificação e caixas de diálogo alert/confirm/prompt. Achamos o visual dele bem singelo, mas muito bonito e objetivo.
+
+Preview do modal
+
+22. Create Dynamic Bootstrap 4 
+Create Dynamic Bootstrap 4 
+
+Este é outro plugin Bootstrap 4 que permite criar belos e responsivos modais dinâmicos ou caixas de diálogo de confirmação e janelas modais complexas usando o componente modal Bootstrap 4. Tem toda a atração visual já presentes nas versões dos bootstraps. Ótima opção!
+
+Preview do modal
+
+23. Minimal Responsive Image Lightbox
+Minimal Responsive Image 
+
+Este é um pequeno script jQuery que facilita a ampliação e exibição de suas imagens em um modal responsivo ou lightbox quando clicado. É simples, mas pode ser útil para projetos de imagens em sites de fotografia.
+
+Preview do modal
+
+24. ClarityLightbox
+ClarityLightbox
+
+O ClarityLightbox é um plugin leve do jQuery para mostrar suas imagens em um modal responsivo enquanto desfoca o conteúdo principal sobreposto usando o filtro de desfoque CSS3. Também é bem bacana em projetos de sites de fotografia ou com muitas imagens.
+
+Preview do modal
+
+25. Goodpopup
+Goodpopup
+
+O Goodpopup é um plugin modal de jQuery simples com cross-browser que permite criar modais fáceis de usar com modelos semânticos baseados na biblioteca de templates handlebars.js. É simples, diferente, minimalista e muito bonito.
+
+Preview do modal
+
+26. leanModal2
+leanModal2
+
+O leanModal2 é uma versão de atualização do plugin legacy jQuery que ajuda a criar janelas modais mínimas e fáceis de usar a partir de elementos inline que contém qualquer conteúdo dentro do documento. Simples, mas com um design atraente.
+
+Preview do modal
+
+27. Bootstrap 4 Modal 
+leanModal2
+
+O Bootstrao 4 Modal jQuery usa Bootstrap e facilita a criação de janelas modais e caixas de diálogo de inicialização do Powerstrap 4 com recursos adicionais. Com ele você tem infinitas possibilidades de personalizá-lo e adaptá-lo aos seus projetos.
+
+Preview do modal
+
+28. Customizable CSS3 Animated Modal
+Customizable CSS3 Animated Modal
+
+Este é um plugin de diálogo modal minimalista, limpo e altamente personalizável, que usa CSS3 para animações impressionantes de abrir/fechar modal. Seguindo a linha minimalista, é uma das melhores opções junto com outras opçòes minimalistas citadas nesta lista.
+
+Preview do modal
+
+29. Easy Responsive Modal Dialog
+Easy Responsive Modal Dialog
+
+Este é um plugin modal e de diálogo jQuery simples, leve e responsivo que carrega conteúdo de conteúdo inline dentro do documento. Segue a linha “diferentão” semelhante a outras opções desta lista. Gostamos de opções de modais que separam a área dos botões com um background cinza.  Ele ainda separa o título com uma borda inferior cinza.
+
+Preview do modal
+
+30. Fit-Modal
+Fit-Modal
+
+Fit-Modal é um simples, elegante, responsivo, animado e altamente personalizável plugin modal jQuery. Ele é bem simples e clean e pode ser adaptado a diversos tipos de sites.
+
+Preview do modal
+
+31. Dynamic Bootstrap 4 Modal
+
+
+Este é outro modelo de modal do Bootstrap 4 que facilita a criação de diálogos baseados em Bootstrap 4 dinâmicos, customizáveis ​​e multi-idiomas, além de janelas modais com opções nativas com manipuladores de eventos.
+
+Preview do modal
+
+32. Morphing Modal
+Morphing Modal
+
+O Morphing Modal tem um botão de call-to-action que anima e se transforma em uma janela modal de tamanho completo. Ele é criado usando jQuery, transição de CSS e transformações. Minimalista, mas muito bonito com design moderno e arrojado.
+
+33. Ouibounce
+Ouibounce
+
+Simples, minimalista, mas muito atraente. É uma boa opção para seu projeto seja lá o nicho que você atua. Pode ser facilmente personalizado.
+
+
+
+34. Nifty Modal Dialog Effects
+Nifty Modal Dialog Effects
+
+Este modal é diferente e bastante exclusivo. Ele já tem em uma moldagem vermelha e única, mas pode ser adaptável de acordo com a identidade visual e cores do seu site. Boa escolha!
+
+
+35. ngDialog
+ngDialog
+
+Simples, mas muito bonito. Este modal jQuery pode ser utilizado para diversos fins e se adapta a diversos tipos de projetos.
+
+
+
+36. Ply
+Ply
+
+O Ply é simples, minimalista, mas muito útil, principalmente se seu objetivo for simples alertas com diálogos.

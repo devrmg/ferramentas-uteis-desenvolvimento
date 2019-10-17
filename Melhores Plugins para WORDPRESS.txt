@@ -1,0 +1,152 @@
+W3 Total Cache
+W3 Total Cache
+
+Para melhorar o desempenho do seu site, você precisa do plugin W3 Total Cache WordPress. Tanto os visitantes do seu blog e os motores de busca se preocupam com a velocidade do seu site. Se suas páginas demoram muito tempo para carregar, você perderá os leitores e o tráfego gerado pelo mecanismo de pesquisa. O W3 Total Cache pode reduzir o tempo de carregamento de uma página em até 50% ou mais – algo que você definitivamente deseja fazer. E isso ajudará você a manter seu site funcionando e sempre disponível ao invés de cair quando uma grande onda de acessos atinge o seu site de uma vez só.
+
+Logaster Logo Generator
+Logaster Logo Generator
+
+O Logaster Logo Generator é um plugin do serviço online de criação de logos e identidade corporativa. Basta digitar o nome do seu site para que o plugin crie dezenas de logotipos que serão salvos na biblioteca de mídia do WordPress. Os logos estão totalmente integrados para o WordPress para que você possa adicioná-los facilmente à página inicial, artigo, tema e outros lugares desejados. Basta usar um shortcode do WordPress (disponível na página do logotipo).
+Os logotipos criados também são gravados no site do Logaster e ficam disponíveis após você se registrar. Através do site, é possível baixar arquivos do logotipo em alta resolução, criar favicons, cartões de visita, envelopes, folhas timbradas e editar o design do logotipo a qualquer momento.
+
+Além disso, você pode criar banners para suas redes sociais (Facebook, Instagram, YouTube, Twitter, Google+ etc.)
+
+Yoast SEO
+Yoast Seo
+
+O WordPress SEO não é apenas um plugin de SEO, é o pacote completo de otimização SEO para sites. Além de adicionar títulos e descrições aos seus artigos, ele também permite que você adicione metadados open graph, faça análise de página, publique o mapa xml do site e assim por diante. É fácil de instalar e configurar.
+
+Wordfence Security
+Wordfence Security
+
+O Wordfence adiciona uma camada extra de proteção bloqueando as pessoas que tentam acessar o seu site indevidamente e bloqueando bots através do endereço IP. Você pode personalizar alertas de e-mail para que você seja notificado se algo suspeito estiver acontecendo. Além disso, eles oferecem uma versão premium que lhe dá acesso ao suporte se você precisar.
+
+Anti-spam
+Anti Spam
+
+Este plugin do WordPress faz exatamente o que diz: é um anti-spam que bloqueia todos comentários de spam. E faz isso sem usar captcha, sem fazer perguntas e sem irritar os seus leitores… que realmente querem deixar um comentário.
+
+Google XML Sitemaps
+Google XML Sitemaps
+
+Você quer que os motores de busca saibam quando você publica novos conteúdos em seu blog para que você possa obter mais tráfego. O Google Sitemaps XML gera automaticamente um sitemap atualizado e o envia para os principais motores de busca sem que você levante um dedo. Não confie nos motores de busca para que eles rastreiem seu site e encontrem novas postagens – use este plugin para avisa-los automaticamente no momento em que você publicar um artigo – antes que alguém copie a sua postagem e diga que foi ele quem escreveu.
+
+Google Analytics
+Google Analytics
+
+O plugin do Google Analytics permite aos usuários rastrearem e visualizarem facilmente estatísticas de pesquisa para um site individual ou coleção de sites sem sair do WordPress. Em vez de entrar na sua conta do Google Analytics, este plugin traz os dados dela até o seu painel de controle. A funcionalidade do painel permite uma navegação fácil ao visualizar um único site, bem como vários sites.
+
+Disqus Comments
+Disqus Comments
+
+Outra ferramenta interativa para seus leitores e muito importante para o seu blog é a caixa de comentários. O Disqus Comments é um excelente plugin do WordPress que permite aos visitantes comentar seus artigos com uma excelente interface social e um excelente controle de spam. Use um plugin avançado como o Disqus Comments em vez da ferramenta de comentários do WordPress. Ela será muito melhor e mais fácil de usar lhe dando maior controle sobre os comentários. É também um plugin de comentário hospedado que sincroniza automaticamente os comentários com o banco de dados do WordPress e oferece uma grande interação social com seus leitores.
+
+WPForms
+WPForms
+
+O WPForms é o plugin de formulário de contato para WordPress que é mais amigável a usuários novatos. Este construtor de formulários online permite que você crie facilmente formulários de contato, formulários de assinatura de e-mail, formulários de pedido, formulários de pagamento e outros tipos de formulários online com apenas alguns cliques. Existe uma versão gratuita chamada de WPForms Lite disponível para quem procura uma solução simples.
+
+OptinMonster
+OptinMonster
+
+O OptinMonster é o melhor plugin de geração de leads para o WordPress. Ele permite que você crie belos formulários de cadastro de e-mail e popups para o seu site WordPress e, assim, converta os seus usuários em assinantes da sua newsletter. Ele está repleto de recursos como segmentação em nível de página, análise, testes de divisão (split testing) e uma tecnologia que detecta uma intenção de saída que permite que você exiba o formulário optin quando um usuário está prestes a sair do seu site.
+
+Jetpack
+Jetpack
+
+O Jetpack é um dos melhores plugins para compartilhamento social para o WordPress. Uma das melhores características do Jetpack é o módulo de compartilhamento social. É simples, não carrega uma tonelada de scripts de JavaScript, e não irá diminuir a velocidade do seu site. Ele fornece contagem de compartilhamentos para todas as redes populares e se você está tecnicamente inclinado a ir além, você pode até configura-lo para fazer coisas como classificar as suas postagens pelo número de compartilhamentos. Além de incríveis botões de compartilhamento, o Jetpack também lhe dará acesso a um enorme pacote de recursos úteis e bem codificados.
+
+VaultPress
+VaultPress
+
+Nunca é demais lembrar e enfatizar a importância de ter backups do seu blog em lugares fora do site e armazenados de forma segura. Mesmo se você estiver usando um provedor de hospedagem premium como o WPEngine, que realiza backups diários de todo o seu site com toneladas de camadas extras de proteção, há sempre a possibilidade remota de que uma pessoa real possa acidentalmente bagunçar algo e perder os seus dados. Com este plugin você pode restaurar todo o site para um estado anterior através de dois cliques.
+
+WP Migrate DB
+WP Migrate
+
+O WP Migrate DB realmente simplifica o processo de mover um banco de dados e a sua biblioteca de mídia do WordPress de um local para outro. Todos nós um dia passaremos pela tarefa árdua de mover um site de um serviço de hospedagem para outro, ou mesmo de um serviço remoto para o nosso ambiente de desenvolvimento local. Mover o banco de dados e os arquivos para lá e para cá podem ser uma tarefa difícil, a menos que você tenha a ferramenta certa para o trabalho. O WP Migrate DB é essa ferramenta.
+
+Simple Image Widget
+Simple Image Widget
+
+Às vezes, você só precisa exibir uma imagem em uma barra lateral. Talvez você precise linkar ela a algo ou adicionar um pouco de texto sob ela, mas nada muito além disso. E é exatamente nisso que o Simple Image Widget se destaca. O plugin é a mistura perfeita de uma interface agradável e simples e de uma funcionalidade básica que realiza a tarefa muito bem. Se você precisar exibir uma imagem na barra lateral, este é o plugin que você deseja usar.
+
+Akismet
+Akismet
+
+O Akismet ajuda a filtrar todos os comentários em seu blog que parecem ser spam. O plugin verifica automaticamente comentários através do serviço da Web Akismet. Todos os comentários têm um histórico para ser analisado que mostra quais deles foram marcados ou desmarcados como spam pelo Akismet. Além disso, os comentários que foram marcados como spam ou não marcados por um moderador serão destacados no histórico.
+
+WooCommerce
+WooCommerce
+
+O WooCommerce é um complemento de eCommerce gratuito que permite vender qualquer coisa de forma fácil. Construído para se integrar perfeitamente com o WordPress, o WooCommerce é a solução mundialmente preferida de comércio eletrônico que oferece aos proprietários de lojas e desenvolvedores um controle completo. Com flexibilidade e capacidade de acesso a centenas de extensões grátis e premium do WordPress, o WooCommerce agora alimenta 30% de todas as lojas online – mais do que qualquer outra plataforma.
+
+All in One SEO Pack
+All in One SEO Pack
+
+O All in One SEO Pack deve ser um dos pilares em seus esforços de otimização para motores de busca. Com ele, você pode dar a sua página um título amigável ao SEO (que aparece no topo de um navegador da Web), inserir a descrição da página inicial (que aparece abaixo do seu URL quando as pessoas a pesquisam através do Google ou outro motor) e palavras-chave relacionadas ao assunto do seu artigo ou site.
+
+Broken Link Checker
+Broken Link Checker
+
+O Broken Link Checker verifica seu site e notifica você (dentro do painel do WordPress ou via e-mail) quando são encontrados links quebrados ou imagens que não existem mais. O Broken Link Checker também permite que você substitua o URL quebrado por um que funciona.
+
+Contact Form 7
+Contact Form
+
+Às vezes, um site simplesmente precisa apenas de um formulário de contato sólido. Você pode adicionar um ao seu blog WordPress com este plugin útil e personalizável. O Contact Form 7 suporta a filtragem de spam CAPTCHA e Akismet.
+
+Edit Flow
+Edit Flow
+
+Este plugin é uma solução completa para gerenciar o seu fluxo de trabalho. Você tem um calendário útil que se sobrepõe a todas as suas postagens para que você possa visualizar melhor o seu calendário editorial. Você e seus contribuidores podem discutir postagens através de uma seção de comentários editoriais que envia notificações por e-mail quando os comentários são adicionados.
+
+Editorial Calendar
+Editorial Calendar
+
+Este plugin é uma mão na roda, pois lhe dará a capacidade de visualizar quando as suas postagens serão publicadas e torna fácil a edição de datas de publicação através do recurso de arrastar e soltar em dias diferentes. É semelhante à forma como funciona o calendário no plugin Edit Flow, mas sem a funcionalidade de processo editorial extra.
+
+WP Smush
+WP Smush
+
+É importante que todo site otimize arquivos de imagens para ajudar a melhorar a velocidade do site. E fazer manualmente para cada imagem pode ser uma tarefa difícil, por isso que o WP Smush é um plugin que foi criado para salvar a sua pele, pois ele automaticamente roda um processo de otimização nas imagens do seu blog WordPress.
+
+Soliloquy
+Soliloquy
+
+O Soliloquy é o melhor slider para WordPress do mercado. A maioria dos plugins de slider deixam o seu site lento, o que prejudicaria o seu SEO. O Soliloquy é o plugin de slider mais rápido do mercado e carrega seus sliders em alta velocidade. Ele vem repleto de recursos e até tem uma versão gratuita que você pode usar para experimentar.
+
+AdSanity
+AdSanity
+
+O AdSanity é um plugin de gerenciamento de anúncios do WordPress focado na facilidade de uso. Adicionar novos anúncios na Adsanity é muito parecido com a adição de uma publicação. Ele vem com widgets e suporte de shortcodes para exibir os anúncios, para que você possa exibir anúncios em barras laterais, postagens e páginas. Você pode criar anúncios baseados em horários programados (que funcionam por um tempo específico) ou anúncios infinitos (que continuam sendo exibidos, a menos que você os remova). Ele também possui gráficos e estatísticas para visualizações de anúncios e cliques. Se você está querendo exibir publicidade no WordPress, então você deve usar esse plugin.
+
+Envira Gallery
+Envira Gallery
+
+Se você tem um site de fotografia ou publica muitas imagens, o Envira Gallery é um plugin obrigatório para você. O Envira Gallery é um plugin de galeria responsiva para WordPress que permite criar belas galerias de imagens com muitos efeitos poderosos, navegação fácil e design responsivo. Ele carrega muito rápido e sempre tem um aspecto belo e elegante em todos os dispositivos. Há também uma versão gratuita chamada Envira Gallery Lite, que você pode experimentar de imediato.
+
+Login Lockdown
+Login Lockdown
+
+Por padrão, um usuário pode tentar fazer login no seu site quantas vezes quiser, mesmo errando o nome de usuário e a senha. A maioria de tentativas de ataques de hackers depende da invasão da área de administração do seu site usando listas de senhas. Este plugin, portanto, simplesmente coloca um limite em quantas vezes um usuário pode tentar fazer o login. Após um determinado número de tentativas de login, ele bloqueia a área de administração por um tempo limitado.
+
+TablePress
+TablePress
+
+O editor de postagens do WordPress não vem com um botão para criar tabelas. Se você precisar inserir tabelas no WordPress, então você precisaria do plugin TablePress para isso. Ele permite que você consiga inserir facilmente tabelas no WordPress, adicione elas às suas postagens, páginas e até widgets. Você também pode exportar os dados da sua tabela se precisar.
+
+WPtouch
+WPtouch
+
+O WPtouch oferece uma suíte para dispositivos móveis para WordPress, que dá ao seu site os poderosos recursos e capacidades de responsividade. Se você quiser criar uma versão móvel do seu site, a WPtouch é a sua resposta.
+
+ThirstyAffiliates
+ThirstyAffiliates
+
+Se você deseja que o marketing de afiliado seja uma das principais fontes de renda do seu site, então você precisa de uma ferramenta de gerenciamento de links de afiliados. O ThirstyAffiliates é a melhor ferramenta de gerenciamento de links de afiliados para o WordPress. Ele permite que você adicione facilmente links de afiliados, links de capa, inserção automática em determinadas palavras-chave e até mesmo que você exporte os seus links.
+
+Zendesk
+Zendesk
+
+O Zendesk é o líder do mercado de software para suporte ao cliente. É inteligente, ágil e conveniente baseado em nuvem. Para empresas em crescimento, o Zendesk é a maneira mais rápida de habilitar o excelente serviço ao cliente. O Zendesk para WordPress permite que você traga seu helpdesk, fornecido pelo Zendesk, para o seu blog ou site.
